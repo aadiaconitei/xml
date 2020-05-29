@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<images path="images">
+    <image title="Rose" file="rose.jpg"/>
+    <image title="Road" file="road.jpg"/>
+    <image title="Lake" file="lake.jpg"/>
+    <image title="Sea" file="sea.jpg"/>
+</images>

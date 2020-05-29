@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="limbaje">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="limbaj" type="TipLimbaj" 
+                    minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="TipLimbaj">
+        <xs:sequence>
+            <xs:element name="nume" type="xs:int" 
+                minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
