@@ -1,3 +1,5 @@
+- https://www.liquid-technologies.com/online-xsd-validator
+- https://www.freeformatter.com/xml-validator-xsd.html
 - https://www.guru99.com/soap-simple-object-access-protocol.html
 - https://webmobtuts.com/backend-development/manipulating-soap-web-services-with-php-and-laravel/
 - https://www.w3schools.com/xml/xml_services.asp
