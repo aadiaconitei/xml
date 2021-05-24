@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="schema.xsd">>
+xsi:noNamespaceSchemaLocation="schema.xsd">
 	<articol id="1">
 		<nume>Coca Cola</nume>
 		<categorie>Băuturi</categorie>
