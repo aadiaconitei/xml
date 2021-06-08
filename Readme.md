@@ -11,3 +11,6 @@
 - https://gist.github.com/samoshkin/c0a2c0dd85b1d5b02d893a0f6ac0e93c
 - https://search.google.com/test/mobile-friendly
 - https://www.guru99.com/json-vs-xml-difference.html
+
+-https://developers.facebook.com/resources/jobs_feed_validator.xsd
+-https://developers.facebook.com/resources/sample_job_feed_with_errors.xml
