@@ -14,3 +14,4 @@
 
 - https://developers.facebook.com/resources/jobs_feed_validator.xsd
 - https://developers.facebook.com/resources/sample_job_feed_with_errors.xml
+- https://www.altexsoft.com/blog/engineering/what-is-soap-formats-protocols-message-structure-and-how-soap-is-different-from-rest/
